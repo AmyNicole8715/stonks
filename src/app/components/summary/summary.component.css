@@ -1,0 +1,11 @@
+:host .stock-card {
+  background: #333333;
+}
+:host .stock-card.increase {
+  background: #15AA2F;
+  color: #fff;
+}
+:host .stock-card.decrease {
+  background: #FF2514;
+  color: #fff;
+}
